@@ -1,0 +1,6 @@
+﻿  Grafika.cpp
+d:\users\patry\onedrive\documents\visual studio 2017\projects\grafika\grafika\grafika.cpp(42): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\users\patry\onedrive\documents\visual studio 2017\projects\grafika\grafika\grafika.cpp(46): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\users\patry\onedrive\documents\visual studio 2017\projects\grafika\grafika\grafika.cpp(47): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Grafika.vcxproj -> d:\Users\patry\OneDrive\Documents\Visual Studio 2017\Projects\Grafika\Debug\Grafika.exe
+  Grafika.vcxproj -> d:\Users\patry\OneDrive\Documents\Visual Studio 2017\Projects\Grafika\Debug\Grafika.pdb (Partial PDB)
