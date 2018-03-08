@@ -1,0 +1,5 @@
+﻿  GKzaj2zad1.cpp
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_2_zad_1\gk_zaj_2_zad_1\gkzaj2zad1.cpp(42): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_2_zad_1\gk_zaj_2_zad_1\gkzaj2zad1.cpp(43): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  GK_zaj_2_zad_1.vcxproj -> D:\Users\patry\OneDrive\Documents\Visual Studio 2017\Projects\GK_zaj_2_zad_1\Debug\GK_zaj_2_zad_1.exe
+  GK_zaj_2_zad_1.vcxproj -> D:\Users\patry\OneDrive\Documents\Visual Studio 2017\Projects\GK_zaj_2_zad_1\Debug\GK_zaj_2_zad_1.pdb (Partial PDB)
