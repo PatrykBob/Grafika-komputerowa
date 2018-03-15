@@ -1,0 +1,10 @@
+﻿  GKzaj3zad1.cpp
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_3_zad_1\gk_zaj_3_zad_1\gkzaj3zad1.cpp(39): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_3_zad_1\gk_zaj_3_zad_1\gkzaj3zad1.cpp(113): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_3_zad_1\gk_zaj_3_zad_1\gkzaj3zad1.cpp(117): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_3_zad_1\gk_zaj_3_zad_1\gkzaj3zad1.cpp(167): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_3_zad_1\gk_zaj_3_zad_1\gkzaj3zad1.cpp(169): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_3_zad_1\gk_zaj_3_zad_1\gkzaj3zad1.cpp(171): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\users\patry\onedrive\documents\visual studio 2017\projects\gk_zaj_3_zad_1\gk_zaj_3_zad_1\gkzaj3zad1.cpp(173): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  GK_zaj_3_zad_1.vcxproj -> d:\Users\patry\OneDrive\Documents\Visual Studio 2017\Projects\GK_zaj_3_zad_1\Debug\GK_zaj_3_zad_1.exe
+  GK_zaj_3_zad_1.vcxproj -> d:\Users\patry\OneDrive\Documents\Visual Studio 2017\Projects\GK_zaj_3_zad_1\Debug\GK_zaj_3_zad_1.pdb (Partial PDB)
