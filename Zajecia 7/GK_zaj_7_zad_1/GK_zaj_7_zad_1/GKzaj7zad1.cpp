@@ -89,7 +89,7 @@ void Display()
 	glVertex3f(0.0f, 0.0f, -2.0f);
 	// Wykonujemy obrót w około i oznaczamy w równych odstępach wierzchołki
 	// tworzące wachlarz trójkątów.
-	for (angle = 0.0f; angle <= (2.0f*GL_PI); angle += (GL_PI / 8.0f))
+	for (angle = 0.0f; angle <= (2.0f*GL_PI); angle += (2 * GL_PI / 15.0f))
 	{
 		// Wyliczenie współrzędnych x i y kolejnego wierzchołka
 		x = r*sin(angle);
@@ -138,7 +138,7 @@ void Display()
 	glVertex3f(0.0f, 0.0f, -2.1f);
 	// Wykonujemy obrót w około i oznaczamy w równych odstępach wierzchołki
 	// tworzące wachlarz trójkątów.
-	for (angle = 0.0f; angle <= (2.0f*GL_PI); angle += (GL_PI / 8.0f))
+	for (angle = 0.0f; angle <= (2.0f*GL_PI); angle += (2 * GL_PI / 15.0f))
 	{
 		// Wyliczenie współrzędnych x i y kolejnego wierzchołka
 		x = (0.01 + r)*sin(angle);
@@ -154,7 +154,7 @@ void Display()
 	glBegin(GL_TRIANGLE_FAN);
 	// środek wachlarza znajduje się na początku układu współrzędnych
 	glVertex3f(0.0f, 0.0f, 1.0f);
-	for (angle = 0.0f; angle <= (2.0f*GL_PI); angle += (GL_PI / 8.0f))
+	for (angle = 0.0f; angle <= (2.0f*GL_PI); angle += (2 * GL_PI / 15.0f))
 	{
 		// Wyliczenie współrzędnych x i y kolejnego wierzchołka
 		x = (0.01 + r)*sin(angle);
